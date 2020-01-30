@@ -1,5 +1,5 @@
 #include <Adafruit_NeoPixel.h>
-#define PIN7 7 //You might need to change this depending on what pins your board has. These means you should connect the ring's 'data in' to digital pin 6 on the arduino. 
+#define PIN7 7 //You might need to change this depending on what pins your board has. These means you should connect the ring's 'data in' to digital pin 7 on the arduino. 
 #define PIN8 8
 #define PIN9 9
 #define PIN10 10
